@@ -2,9 +2,9 @@ package main
 
 import (
 	"flag"
-	"github.com/mrf/newrelic_exporter/config"
-	"github.com/mrf/newrelic_exporter/exporter"
-	"github.com/mrf/newrelic_exporter/newrelic"
+	"github.com/amitsaha/newrelic_exporter/config"
+	"github.com/amitsaha/newrelic_exporter/exporter"
+	"github.com/amitsaha/newrelic_exporter/newrelic"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/log"
 	"net/http"

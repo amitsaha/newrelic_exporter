@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/antonholmquist/jason"
-	"github.com/mrf/newrelic_exporter/config"
+	"github.com/amitsaha/newrelic_exporter/config"
 	"github.com/prometheus/log"
 	"github.com/tomnomnom/linkheader"
 	"io/ioutil"
